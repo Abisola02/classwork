@@ -13,8 +13,7 @@ body{
     margin: auto;
     margin-top: 20px;
     border-radius: 20px;
-    border: solid;1px
-
+    border: solid 1px ;
 }
 .content1{
     background: linear-gradient(to right,orange,grey);
